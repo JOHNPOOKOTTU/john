@@ -1,0 +1,16 @@
+echo "current logged user details---- " 
+w
+echo "\n your current shell"
+
+echo "CURRENT HOME DIRECTORY----"$HOME
+echo "OSTYPE--"
+uname -v
+echo "\n your current pathsetting--"
+$PATH
+echo "\n your current working directory-"
+pwd
+echo "\n no of users--"
+-w
+
+
+
